@@ -21,6 +21,7 @@ Mai jos se regăsesc principalele tehnologii utilizate în realizarea acestui pr
 
 ![Tailwind](resurse/repo/iconite/tailwind.png)![Daisy UI](resurse/repo/iconite/daisy_ui.png)![JQuery](resurse/repo/iconite/jquery.png)
 
+
 **Tehnologii Backend:**
 
 ![PHP](resurse/repo/iconite/php.png)![CodeIgniter](resurse/repo/iconite/codeigniter.png)![SQLite](resurse/repo/iconite/sqlite3.png)
